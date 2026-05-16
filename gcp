@@ -1,3 +1,7 @@
 welcome to gcp, this is provided by google
 This is the least popular among the 3
+<<<<<<< Updated upstream
 made changes in github repo
+=======
+Making changes in the local git
+>>>>>>> Stashed changes
